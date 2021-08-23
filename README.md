@@ -4,7 +4,8 @@
 Amazon Linux AMI 2015.09
 
 Elasticsearch 1.7.2
-Commands
+Commands:
+
 sudo su
 
 yum update -y
